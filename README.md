@@ -22,7 +22,7 @@ This document provides a **detailed explanation** of the implementation, testing
 - The system maintains a **set of processed event IDs** to avoid reprocessing.
 - Events are **sorted by `id`** before processing to ensure correct order.
 
-### 4️⃣ **Testing with `unittest` **
+### 4️⃣ **Testing with `unittest`**
 - All test cases are written in `test_event_processor.py` using **Python's `unittest` framework**. 
 - Print statements in test cases allow **better visibility of state changes**.
 
@@ -94,8 +94,7 @@ If I had access to additional tools such as **a database, logs, or real-time pro
 ### **Steps to Run**
 1️⃣ Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/sreekarvss29/Linq-Data-Take-Home.git>
    ```
 
 2️⃣ Run the event processing script manually:
