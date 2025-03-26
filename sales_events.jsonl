@@ -1,0 +1,2 @@
+{"event_id": "lead-001", "rep_id": "rep-101", "event_type": "digital_card_scan", "timestamp": "2025-03-23T04:00:46.296140", "details": {"contact_method": "qr_code", "company": "Acme Corp", "deal_size": 50000, "crm_id": "HS-1001"}}
+{"event_id": "lead-002", "rep_id": "rep-102", "event_type": "email_received", "timestamp": "2025-03-24T04:00:46.296239", "details": {"contact_method": "email", "company": "Globex Inc", "deal_size": 75000, "crm_id": "SF-2001"}}
