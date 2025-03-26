@@ -1,7 +1,5 @@
 # Data Engineer Take-Home Assessment
 
-**Data Engineer Take-Home Assessment**
-
 ## Overview
 This repository contains my solution to the Linq Data Engineer Take-Home Assessment. The objective of this task is to design a **fault-tolerant event processing system** that efficiently processes **real-time event logs**, maintains **data consistency**, and recovers from **failures and crashes** without relying on a traditional database.
 
