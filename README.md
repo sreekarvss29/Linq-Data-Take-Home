@@ -108,11 +108,6 @@ If I had access to additional tools such as **a database, logs, or real-time pro
    ```
    This will execute all test cases and print **detailed state outputs** in the terminal.
 
-4️⃣ **Run tests using VS Code UI**:
-   - Open VS Code and ensure the **Python extension** is installed.
-   - Open **Command Palette (`Ctrl+Shift+P`)** → Select **"Python: Configure Tests"** → Choose **unittest**.
-   - Open the **Testing Panel (`Ctrl+Shift+T`)** → Click **Run All Tests**.
-
 ---
 
 ## 🔥 Why This Solution? (Key Highlights)
